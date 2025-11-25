@@ -265,9 +265,6 @@ console.log(getSum(1,2,3,4,5))
 
 //Q12
 
-const successmessage =()=>{
-    Promise.resolve()
-}
 
 //=======================================================
 
@@ -324,7 +321,3 @@ const splitString = (String)=>{
 let myString = "Hello Every One My Name Is Hazzem And I Have 20 Years Old"
 console.log( splitString(myString) )
 */
-
-
-let print = function (params) {
-}
